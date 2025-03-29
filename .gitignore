@@ -1,0 +1,8 @@
+# Java
+*.class
+out/
+*.log
+
+# IDE
+.idea/
+*.iml
